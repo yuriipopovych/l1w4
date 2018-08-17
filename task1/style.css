@@ -1,0 +1,10 @@
+.js_style {
+	color: #80d4ff;
+	font-size: 80px;
+	font-family: Arial;
+	font-style: oblique;
+	text-align: center;
+}
+.click {
+	display: none;
+}
